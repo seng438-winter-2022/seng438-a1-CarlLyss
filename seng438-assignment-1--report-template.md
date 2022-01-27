@@ -2,9 +2,9 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:  42     |   |
 |-----------------|---|
-| Student Names:  |   |
+| Student Names:  | Carl Lyss  |
 |                 |   |
 |                 |   |
 |                 |   |
