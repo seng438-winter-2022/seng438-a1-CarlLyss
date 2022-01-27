@@ -6,7 +6,7 @@
 |-----------------|---|
 | Student Names:  | Carl Lyss  |
 |                 | Bhavdeep Purba  |
-|                 |   |
+|                 | Mohammadreza Osouli  |
 |                 |   |
 
 **Table of Contents**
