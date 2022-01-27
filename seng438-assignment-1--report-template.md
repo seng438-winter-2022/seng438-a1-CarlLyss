@@ -5,7 +5,7 @@
 | Group \#:  42     |   |
 |-----------------|---|
 | Student Names:  | Carl Lyss  |
-|                 |   |
+|                 | Bhavdeep Purba  |
 |                 |   |
 |                 |   |
 
