@@ -4,10 +4,10 @@
 
 | Group \#:  42     |   |
 |-----------------|---|
-| Student Names:  | Carl Lyss  |
-|                 | Bhavdeep Purba  |
-|                 | Mohammadreza Osouli  |
-|                 |   |
+| Student Names:  | Carl Lyss           |
+|                 | Bhavdeep Purba      |
+|                 | Mohammadreza Osouli |
+|                 | Mohamed Mansour     |
 
 **Table of Contents**
 
