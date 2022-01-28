@@ -32,8 +32,9 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+Prior to this first assignment, most of us had little to no experience in doing either exploratory testing or manual functional test. We only had the theoretical knowledge needed to perform these types of tests which was obtained through the course lectures and course material. We began our lab work by first getting familiar with the ATM software to be tested. Next, our team set up Backlog to be used as the defect tracking system to report bugs. We then moved on to the exploratory testing phase, logging any defects we note in Backlog. We had prepared by reading through the functional requirements of the system and then devising a test plan to be used. After the exploratory phase, we moved on to the manual scripted testing and went through all of the test cases provided, reporting all defects. Lastly, we conducted regression testing on version 1.1 of the system by first going through previous defects found and seeing if they had been fixed in the updated system. We then went through the rest of the test cases and reported any new defects that we found. 
+
+Working on this assignment, we were able to actually experience these types of tests and we were able to gain more knowledge regarding these 2 types of tests on software. It was a very valuable experience specially working in groups on this and details about how the assignment went and how the team decided to work on it will be discussed in this report
 
 # High-level description of the exploratory testing plan
 
