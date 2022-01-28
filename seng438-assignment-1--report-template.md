@@ -51,7 +51,11 @@ Manual functional testing is contains documented step-by-step test cases. Any te
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Here’s notes and discussion of peer reviews based on experience of Carl and Mohammadreza
+
+Carl: “I was somewhat confused about what was required for the defect reports, when I saw one of my peers I saw how to format it in a clear and effective way and then emulated that method going forward for my reports.“
+
+Mohammadreza: “Peer review helped us not create duplicate issues. In one situation, after we talked about some bugs in the same functionality, we found out that there is a single bug represented in different ways.”
 
 # How the pair testing was managed and team work/effort was divided 
 
