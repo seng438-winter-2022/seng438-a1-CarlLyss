@@ -63,7 +63,10 @@ We had a team of four so Mohammed and Bhavdeep became a pair and Carl and Mohamm
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+* Due to teams being assigned on the weekend the team only met up during the week the assignment was due. The biggest trouble was scheduling issues with the group. 
+
+* Fortunately, there weren’t many challenges that we faced as a group when working on this assignment. The process was mostly very smooth with just a few misunderstandings along the way that we’re quickly resolved. Working on this lab assignment, we as a team was able to learn many lessons and gain a lot of experience not just in testing software but also in working with a team of people that we didn’t know prior to working on this lab. Being able to communicate and work efficiently with a new group of people is an essential asset that I believe every software engineer/developer should have and this lab definitely helped us as a group develop our communication skills more. In regards to tests, most group members had no experience in doing any scripted testing so that was also very valuable for us to experience for the first time.
+
 
 # Comments/feedback on the lab and lab document itself
 
