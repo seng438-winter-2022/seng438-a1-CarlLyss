@@ -70,4 +70,4 @@ We had a team of four so Mohammed and Bhavdeep became a pair and Carl and Mohamm
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+The document was well structured, thorough, and quite useful. We didn’t have difficulties in figuring out what we needed to do. Possibly overly thorough, it was very long and we think some sections could have been removed or shortened, like the section of Pair Testing could have been part of another section. There were also minor issues with formatting that made it harder to read such as the Lab Report Marking Scheme having been broken up incorrectly. Finally, throughout the document, it referred to an appendix, but the appendix was not properly labeled so it took some time for me to realize where the info was. 
