@@ -59,7 +59,7 @@ Mohammadreza: “Peer review helped us not create duplicate issues. In one situa
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+We had a team of four so Mohammed and Bhavdeep became a pair and Carl and Mohammadreza formed another pair. Our team met up over a Zoom meeting, and decided the pairs we were going to use for the testing. We split up into separate break-out rooms and began. In each pair, the functionalities are separated between pair members. Also, we had discussions on the issues each of the members found.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
