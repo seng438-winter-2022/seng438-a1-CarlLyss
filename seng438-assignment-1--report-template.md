@@ -38,7 +38,7 @@ Working on this assignment, we were able to actually experience these types of t
 
 # High-level description of the exploratory testing plan
 
-Text…
+To be able to efficiently test the software using the exploratory technique, we decided to divide our team into 2 pairs where each pair focused on a specific set of functions. Then in the pairs, one member would be executing the plan over screen share and the other person would be reporting any defects that were found. By doing this, each team member was able to contribute and the work was able to be done more efficiently. We decided to test all the functionalities of the application and tried to use the application like its actual users. Then for each part of the application, we tried to test as many situations we could create.  We communicated the bugs we had found to the other pair of students to prevent the same bugs from being reported twice. As time passed, we found that we were creating more complicated scenarios to test. At last, we finished testing when we found many bugs and our test scenarios were getting unnecessarily complicated.
 
 # Comparison of exploratory and manual functional testing
 
